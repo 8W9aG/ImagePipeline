@@ -5,6 +5,9 @@ ImagePipeline is a C++ API for designing OpenCV solutions through the use of pip
 
 The example contains an implementation of the squares OpenCV demo program written in this way.
 
+Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0 "Apache License, Version 2.0")
+Compiled and tested on OSX
+
 Third party code
 ----------------
 
