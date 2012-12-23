@@ -1,0 +1,5 @@
+.DS_Store
+*.mobileprovision
+*.trace
+*.o
+example
